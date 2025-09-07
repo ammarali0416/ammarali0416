@@ -23,9 +23,9 @@ I made [DesiDictions](https://desidictions.com) and helped ship [SuperVote.app](
 - **Data Engineering:** Snowflake SQL, Snowflake Data Warehouse, Azure SQL
 - **CI/CD:** Azure DevOps, GitHub Actions
 - **Programming Languages:**
-  - Python (Expert)
-  - Go, JavaScript/TypeScript (React, Next.js)
-  - Rust (Learning)
+  - Python, SQL - Very Strong
+  - Go, JavaScript/TypeScript (React, Next.js) - Good amount of work with
+  - Rust (Learning) - One day want to make a satelitte with this
 - **GenAI & Prompt Engineering:**
   - Extensive experience in GenAI applications
   - Proficient with OpenAI SDK, Gemini SDK
@@ -38,7 +38,7 @@ I made [DesiDictions](https://desidictions.com) and helped ship [SuperVote.app](
 
 ---
 
-## 🌟 My Public Projects
+## 🌟 My Public Repos
 
 | Project       | Description                  | Stack                                   |
 | ------------- | --------------------------- | ---------------------------------------- |
