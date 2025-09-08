@@ -4,14 +4,14 @@
 
 I started programming HTML on Khan Academy in 2013 and haven't stopped since
 
-I made [DesiDictions](https://desidictions.com) and helped ship [SuperVote.app](https://supervote.app). Data engineering is fun, but I really like building automations, full stack development, GenAI, and doing courses on [NeetCode](https://neetcode.io).
+I made [DesiDictions](https://desidictions.com) and helped ship [SuperVote.app](https://supervote.app). Data engineering is fun, but I really like automating processes, full stack development, GenAI, and doing courses on [NeetCode](https://neetcode.io).
 
 ---
 
 ## 🚀 About Me
 
 - 💼 **Profession:** Software Engineer, Data Engineer, Consultant
-- 🏢 **Current Role:** Data Engineer @ AdaptHealth
+- 🏢 **Current Role:** Data Engineer @ [AdaptHealth](https://www.adapthealth.com)
 - 🌍 **Location:** East Coast USA
 - 👨‍💻 **Founder/Co-Founder:** [DesiDictions](https://desidictions.com), [SuperVote.app](https://supervote.app)
 - 🎶 **Hobbies:** Violin, Carpentry, Reading
@@ -30,15 +30,15 @@ I made [DesiDictions](https://desidictions.com) and helped ship [SuperVote.app](
   - Extensive experience in GenAI applications
   - Proficient with OpenAI SDK, Gemini SDK
 - **Cloud & Platform Experience:**
-  - Azure Portal (App Engine, Database, Cosmos DB, Cognitive Search, AI Foundry)
+  - Azure Portal (App Engine, Database, Cosmos DB, Cognitive Search, AI Foundry, Blob Storage)
   - Vercel 
-  - Cloudflare
-  - Digital Ocean
-  - GCP (Auth + VertexAI
+  - Cloudflare (Pages + Workers)
+  - Digital Ocean (Droplet)
+  - GCP (Auth + VertexAI)
 
 ---
 
-## 🌟 My Public Repos
+## 🌟 I put a lot of effort into these projects, roast them please (pressure makes diamonds your critique only helps me grow)
 
 | Project       | Description                  | Stack                                   |
 | ------------- | --------------------------- | ---------------------------------------- |
