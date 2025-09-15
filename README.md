@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Ammar Ali
-
 **Software Engineer | Consultant | Data Engineer @ AdaptHealth**
 
 I started programming HTML on Khan Academy in 2013 and haven't stopped since
